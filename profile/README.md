@@ -46,7 +46,7 @@ Repository index: [github.com/SAK-Game-Development-Department](https://github.co
 
 
 ### Languages
-<img alt="Languages" src="https://skillicons.dev/icons?theme=dark&perline=15&i=c,zig"/>  ![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=odin&theme=dark)  <img alt="Languages" src="https://skillicons.dev/icons?theme=dark&perline=15&i=rust,ts,python,kotlin" />
+<img alt="Languages" src="https://skillicons.dev/icons?theme=dark&perline=15&i=c,zig"/>  ![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=odin&theme=dark)  <img alt="Languages" src="https://skillicons.dev/icons?theme=dark&perline=15&i=rust,ts,js,python,kotlin,wasm" />
 
 ### Frameworks & Runtimes
 <img alt="Frameworks" src="https://skillicons.dev/icons?theme=dark&perline=15&i=react,tauri,bun,hono"/> 
