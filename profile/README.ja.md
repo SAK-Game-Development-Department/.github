@@ -3,7 +3,7 @@
   Organization Profile README / JA
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=220&section=header&text=SAK%20GAME%20DEV&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI ✕ ゲーム開発サークル&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=220&section=header&text=SAK%20GAME%20DEV&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI✕ゲーム開発サークル&descAlignY=58&descSize=18" width="100%" />
 
 <p align="right">
   <a href="./README.md"><img src="https://img.shields.io/badge/LANG-EN-8b949e?style=flat-square&labelColor=0d1117" alt="English" /></a>
@@ -31,7 +31,7 @@
 
 SAK大学公認のゲーム開発サークル。私たちは**少数精鋭のアウトプット駆動型エンジニアリング・ユニット**である。
 
-メンバーはゲーム開発、情報セキュリティ、AI、組み込みシステムに取り組む。目的は明確だ——**大会、論文、そして出荷されるプロジェクト**。私たちは誇大広告よりも検証を、会議よりも実行を重んじる。
+メンバーはゲーム開発、情報セキュリティ、AI、組み込みシステムに取り組む
 
 > **"Build. Break. Document. Repeat."**
 
