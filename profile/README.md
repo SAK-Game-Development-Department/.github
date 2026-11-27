@@ -102,7 +102,7 @@ Repository index: [github.com/SAK-Game-Development-Department](https://github.co
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAK-Game-Development-Department&theme=github_dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SAK-Game-Development-Department&theme=github_dark&utcOffset=9" alt="Productive Time" />
+ 
 </p>
 
 ---
