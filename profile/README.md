@@ -96,8 +96,13 @@ Repository index: [github.com/SAK-Game-Development-Department](https://github.co
 ## // ORGANIZATION STATS
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SAK-Game-Development-Department&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&count_private=true" alt="Org Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAK-Game-Development-Department&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SAK-Game-Development-Department&theme=github_dark" alt="Org Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SAK-Game-Development-Department&theme=github_dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAK-Game-Development-Department&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SAK-Game-Development-Department&theme=github_dark&utcOffset=9" alt="Productive Time" />
 </p>
 
 ---
