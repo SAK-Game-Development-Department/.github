@@ -58,23 +58,6 @@ Repository index: [github.com/SAK-Game-Development-Department](https://github.co
 
 ---
 
-## // POPULAR PROJECTS
-
-<!--
-  Replace REPO_1 / REPO_2 with actual public repository names.
-  If no public repos exist yet, keep the placeholder and the note below.
--->
-
-<a href="https://github.com/SAK-Game-Development-Department">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAK-Game-Development-Department&repo=REPO_1&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
-</a>
-<a href="https://github.com/SAK-Game-Development-Department">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SAK-Game-Development-Department&repo=REPO_2&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" />
-</a>
-
-> Project cards populate as repositories are made public. Browse the full index at [github.com/SAK-Game-Development-Department](https://github.com/SAK-Game-Development-Department).
-
----
 
 ## // ORGANIZATION STATS
 
