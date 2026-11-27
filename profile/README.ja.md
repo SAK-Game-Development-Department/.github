@@ -12,9 +12,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%3E+SAK+大学公認サークル;%3E+ゲーム開発+%7C+セキュリティ+%7C+AI+%7C+組み込み;%3E+少数精鋭。鋭い集中。確かな成果。" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=%3E+SAK+University+Official+Circle;%3E+Game+Development+%7C+Security+%7C+AI+%7C+Embedded;%3E+Small+Team.+Sharp+Focus.+Real+Output." alt="Typing SVG" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="https://github.com/SAK-Game-Development-Department">
