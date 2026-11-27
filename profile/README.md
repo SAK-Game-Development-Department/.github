@@ -42,7 +42,7 @@ Repository index: [github.com/SAK-Game-Development-Department](https://github.co
 ## // TECH STACK
 
 ### Operating Systems
-<img alt="OS" src="https://skillicons.dev/icons?theme=dark&perline=15&i=arch,nix,ubuntu" /> 
+<img alt="OS" src="https://skillicons.dev/icons?theme=dark&perline=15&i=arch,nix,windows" /> 
 
 
 ### Languages
