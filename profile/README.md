@@ -140,78 +140,19 @@ Repository index: [github.com/SAK-Game-Development-Department](https://github.co
   </tr>
 </table>
 
-> Additional members are not published individually. Recruitment is by introduction, application, or scouting only.
-
 ---
 
-## // CHARTER
+## // CONTACT
 
-<details>
-<summary><strong>1. Membership & Joining</strong></summary>
+<p align="center">
+  <sub><code>OPEN TO COLLABORATION, COMPETITIONS, AND TECHNICAL EXCHANGE</code></sub>
+</p>
 
-- **Eligibility:** Anyone who resonates with the circle's purpose and completes the prescribed procedures. Participation in fields of interest and concurrent membership are free.
-- **Joining flow:**
-  1. Communicate your "reason for applying" and "past activities/achievements" to the Representative or field leader.
-  2. The first **1 week** after joining is a trial period.
-- **Withdrawal:** Consult the Representative in advance.
+<p align="center">
+  <a href="https://github.com/SAK-Game-Development-Department"><img src="https://img.shields.io/badge/ORGANIZATION-SAKE--GAME--DEV-58A6FF?style=flat-square&labelColor=0d1117&logo=github&logoColor=white" alt="Organization" /></a>
+  <a href="https://github.com/Koan0717"><img src="https://img.shields.io/badge/LEADER-Koan0717-8b949e?style=flat-square&labelColor=0d1117&logo=github&logoColor=white" alt="Leader" /></a>
+</p>
 
-</details>
-
-<details>
-<summary><strong>2. Activity Standards & Hiatus</strong></summary>
-
-- **Monthly requirement:** Participate in at least **1 activity per month** (competition, study session, event, etc.) and submit an activity report. Results are not judged.
-- **Hiatus:** **2 consecutive months** without valid reason → temporary hiatus; shared resource access is suspended.
-- **Return:** A brief re-confirmation restores active status at any time.
-- Long-term inactivity or lack of cooperation may result in expulsion after consultation.
-
-</details>
-
-<details>
-<summary><strong>3. Shared Resources</strong></summary>
-
-- **Personal use only:** External services and resources available via the circle are for **personal learning and research only**.
-- **No third-party provision or redistribution:** Sharing, lending, or transferring accounts and materials to others is **strictly prohibited** regardless of reason. Service ToS violations may result in suspension of the entire circle's access.
-- **Protection of member-created resources:** Resources shared among members must not be shared or transferred to third parties without the creator's permission.
-
-</details>
-
-<details>
-<summary><strong>4. Prohibited Conduct & Enforcement</strong></summary>
-
-1. Fraud or plagiarism in competitions or papers.
-2. Unauthorized use or external leakage of shared resources.
-3. Harassment of any kind toward members.
-4. Any other behavior that significantly disrupts the circle's atmosphere or operation.
-
-**Enforcement (graduated, decided by officers after hearing the member's explanation):**
-
-1. Verbal / DM warning.
-2. Suspension of activity and shared resource use for a period.
-3. Forced withdrawal.
-
-Records of proceedings are kept among officers and handed over at the next officer transition.
-
-</details>
-
-<details>
-<summary><strong>5. Name Usage & Publication of Achievements</strong></summary>
-
-- **Circle name usage:** Usage for external events requires prior contact with the Representative and executives for approval (purpose and objective).
-- **Roster non-disclosure:** Member rosters are not published externally. Recruitment is by introduction from existing members, volunteers, or scouting only.
-- **Achievement publication:** Competition results, papers, presentations, etc. may be published and promoted externally under individual or circle name (recommended and permitted).
-
-</details>
-
-<details>
-<summary><strong>6. Governance & General Assembly</strong></summary>
-
-- **Officers:** Representative (1), Vice Representative (1), Development Lead / CTO (1). Field leaders serve as volunteer coordinators.
-- **Regular general meetings:** **Twice per semester** (approx. every 3 months); all members participate. Activity reports, financial reports, officer appointments, rule amendments.
-- **Rule amendments:** Passed by majority vote of attendees at a general meeting.
-
-</details>
-
-<p align="right"><sub><code>EFFECTIVE: 2026-11-11</code></sub></p>
+> For collaboration proposals, competition inquiries, or technical exchange, reach out via GitHub. We review messages from outside the university as well.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,5,30&height=120&section=footer&text=SAK%20GAME%20DEV&fontSize=24&fontColor=ffffff&animation=fadeIn" width="100%" />
