@@ -42,36 +42,19 @@ Repository index: [github.com/SAK-Game-Development-Department](https://github.co
 ## // TECH STACK
 
 ### Operating Systems
+<img alt="OS" src="https://skillicons.dev/icons?theme=dark&perline=15&i=arch,nix,ubuntu" /> 
 
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![NixOS](https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
-![openSUSE](https://img.shields.io/badge/openSUSE-73BA25?style=flat-square&logo=opensuse&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![AlmaLinux](https://img.shields.io/badge/AlmaLinux-0E7FC0?style=flat-square&logo=almalinux&logoColor=white)
 
 ### Languages
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=white)
-![Odin](https://img.shields.io/badge/Odin-388BFD?style=flat-square&logo=odin&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+<img alt="Languages" src="https://skillicons.dev/icons?theme=dark&perline=15&i=c,zig"/>  ![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=odin&theme=dark)  <img alt="Languages" src="https://skillicons.dev/icons?theme=dark&perline=15&i=rust,ts,python,kotlin" />
 
 ### Frameworks & Runtimes
+<img alt="Frameworks" src="https://skillicons.dev/icons?theme=dark&perline=15&i=react,tauri,bun,hono"/> 
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
-![Sinatra](https://img.shields.io/badge/Sinatra-000000?style=flat-square&logo=ruby-sinatra&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+### Infrastructure
+![My Skills](https://skill-icons-v2.vercel.app/api/icons?i=docker,cloudflare,vercel&titles=true&theme=dark)
 
-### Cloud / DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+<br>
 
 ---
 
@@ -102,7 +85,7 @@ Repository index: [github.com/SAK-Game-Development-Department](https://github.co
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SAK-Game-Development-Department&theme=github_dark" alt="Repos per Language" />
- 
+  
 </p>
 
 ---
